@@ -694,7 +694,7 @@ Link the first `label` element to the `select` element, and give the `select` el
 ```html
 #index.html
             <div class="question-block">
-              <label>Do you have any questions:</label>
+              <label for="customer">Do you have any questions:</label>
             </div>
             <div class="answer">
               <select name="customer" id="customer" required>
