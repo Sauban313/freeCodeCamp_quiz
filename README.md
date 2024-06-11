@@ -817,7 +817,7 @@ Do not forget to give your `form` a submit button.
             </div>
           </div>
         </section>
-        <button type="submit">Submit</button>
+        <button type="submit">Send</button>
       </form>
 ```
 > **Step 41** <br>
